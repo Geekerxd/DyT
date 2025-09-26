@@ -1,0 +1,16 @@
+INICIO
+1. visual studio code
+2. instalar python de la pagina oficial
+3. instalar la extencion de python
+
+
+DESARROLLO
+1. abrir nuevo archivo .py
+2. ctrl + shift + p  > python select interpreter
+
+
+
+
+
+
+escribir un print('')
